@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_visualization">
+    <par_visualization action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <certified>false</certified>
+        <description/>
+        <macroponent display_value="Single score">d24d53f60350de7a652caf3188a46ed2</macroponent>
+        <name>Failures</name>
+        <properties>{"scoreSize":"xl","headingPosition":"top","sparklineStyle":"area","scoreIcon":"","iconStyle":"background","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"showZero":true,"newReporting":false,"enableAddZerosAtApi":true,"additionalGroupByConfig":[],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showLoadingIndicator":false,"showHeaderSeparator":false,"contextMenuActions":[],"headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"refreshRequest":"","showAdditionalGroupBySelector":false,"allowAdditionalGroupByPerMetric":false,"dataPassthrough":null,"sortByOrder":"desc","showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":false,"emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","hideDevSettings":false,"configPropModifiers":{},"showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"useCurrentDateForEnd":false,"period":"M","useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"dateFormat":"default","showRefresh":true,"showFilterAsSeparateSeries":false,"userInfo":"@context.session.user","sharedContext":{},"colors":{},"filterConfigurations":[],"componentId":"j1p9l3k7","filterPerMetric":[],"sortBy":"value","configVersion":"23.0.0-ci-SNAPSHOT","headerTitle":"Failures","dataSources":[{"isDatabaseView":false,"allowRealTime":false,"label":"Health Indicator","sourceType":"table","tableOrViewName":"u_st_u_health_indicator","filterQuery":"u_category=Errors &amp; Failures","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV1X3N0X3VfaGVhbHRoX2luZGljYXRvcjE3NjU4NDYxODY2MjA=","dataCategories":["trend","group","simple"]}],"metrics":[{"dataSource":"dGFibGV1X3N0X3VfaGVhbHRoX2luZGljYXRvcjE3NjU4NDYxODY2MjA=","id":"ZEdGaWJHVjFYM04wWDNWZmFHVmhiSFJvWDJsdVpHbGpZWFJ2Y2pFM05qVTRORFl4T0RZMk1qQT0xNzY1ODQ2MTg3NDQ3","aggregateFunction":"AVG","numberFormat":{"customFormat":false},"axisId":"primary","aggregateField":"u_score"}],"colorConfig":{"type":"singleColor","values":[{"color":"0c2b2cd75b712110e5ba6e8a1d81c7ba","metric":"ZEdGaWJHVjFYM04wWDNWZmFHVmhiSFJvWDJsdVpHbGpZWFJ2Y2pFM05qVTRORFl4T0RZMk1qQT0xNzY1ODQ2MTg3NDQ3","rules":[{"operator":"between","order":10,"color":"4fc5987977212110f5f16e7f6b5a99a9","value1":0,"value2":30},{"operator":"between","order":100,"color":"ce56c9b3d7332100fa6c0c12ce610334","value1":30,"value2":90},{"operator":"&gt;","order":200,"color":"65b30344a9fe3dba00c9f98d066d6526","value1":90}]}]},"rangesConfig":{},"chartInteractionAction":"drillDownToChart","chartToChart":{},"description":null}</properties>
+        <requested_by/>
+        <scheduled_count>0</scheduled_count>
+        <sys_class_name>par_visualization</sys_class_name>
+        <sys_created_by>jenzi</sys_created_by>
+        <sys_created_on>2025-12-16 02:03:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a0918652833d3650a90de590ceaad3c0</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Failures</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Health Mobile" source="x_916323_health_0">67cba1d283393650a90de590ceaad3bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Health Mobile">67cba1d283393650a90de590ceaad3bd</sys_scope>
+        <sys_update_name>par_visualization_a0918652833d3650a90de590ceaad3c0</sys_update_name>
+        <sys_updated_by>jenzi</sys_updated_by>
+        <sys_updated_on>2025-12-16 02:59:32</sys_updated_on>
+        <type>Single score</type>
+    </par_visualization>
+</record_update>

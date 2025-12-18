@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_section">
+    <sys_sg_chart_section action="INSERT_OR_UPDATE">
+        <access_control_type>user_roles</access_control_type>
+        <active>true</active>
+        <card_size/>
+        <charts>9a673dd283b93650a90de590ceaad3e5,12f6829e833d3650a90de590ceaad3cd,04270a52837d3650a90de590ceaad365,8a378e52837d3650a90de590ceaad33d,88b64212837d3650a90de590ceaad36e</charts>
+        <column_count/>
+        <custom_height/>
+        <custom_width/>
+        <data_item/>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <is_custom_size>false</is_custom_size>
+        <is_hidden_preference_name/>
+        <orientation>vertical</orientation>
+        <required_roles/>
+        <row_count/>
+        <sys_class_name>sys_sg_chart_section</sys_class_name>
+        <sys_created_by>jenzi</sys_created_by>
+        <sys_created_on>2025-12-16 01:21:05</sys_created_on>
+        <sys_id>04e7bd1683b93650a90de590ceaad3e6</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Instance scores</sys_name>
+        <sys_package display_value="Health Mobile" source="x_916323_health_0">67cba1d283393650a90de590ceaad3bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Health Mobile">67cba1d283393650a90de590ceaad3bd</sys_scope>
+        <sys_update_name>sys_sg_chart_section_04e7bd1683b93650a90de590ceaad3e6</sys_update_name>
+        <sys_updated_by>jenzi</sys_updated_by>
+        <sys_updated_on>2025-12-16 03:38:15</sys_updated_on>
+        <table/>
+        <title>Instance scores</title>
+        <type>data_visualization_single_score</type>
+        <visible_condition/>
+        <wide_column_count/>
+    </sys_sg_chart_section>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Indicators">813a4e9a837d3650a90de590ceaad30b</data_item>
+        <interleaved_field/>
+        <name>Health Issues - List stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>jenzi</sys_created_by>
+        <sys_created_on>2025-12-16 02:54:06</sys_created_on>
+        <sys_id>2e2d8ad283bd3650a90de590ceaad311</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Health Issues - List stream</sys_name>
+        <sys_package display_value="Health Mobile" source="x_916323_health_0">67cba1d283393650a90de590ceaad3bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Health Mobile">67cba1d283393650a90de590ceaad3bd</sys_scope>
+        <sys_update_name>sys_sg_item_stream_2e2d8ad283bd3650a90de590ceaad311</sys_update_name>
+        <sys_updated_by>jenzi</sys_updated_by>
+        <sys_updated_on>2025-12-16 02:54:06</sys_updated_on>
+        <table>u_st_u_health_indicator</table>
+    </sys_sg_item_stream>
+</record_update>
