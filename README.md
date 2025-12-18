@@ -42,7 +42,7 @@ It is a **lightweight, real-time health snapshot**, optimized for usability and 
 
 ## ✨ Key Features
 
-- **Mobile-first admin experience**
+- **Mobile-first admin experience accessible from Native ServiceNow Agent App** 
 - **Health indicators by Category**
 - **Clear status & score visualization**
 - **Fast access to critical issues**
