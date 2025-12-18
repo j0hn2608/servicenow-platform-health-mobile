@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <data_visualization display_value="Healthscore by category">52e9f59a83b93650a90de590ceaad37c</data_visualization>
+        <jump_to_screen/>
+        <name>healthscore_category</name>
+        <report/>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>jenzi</sys_created_by>
+        <sys_created_on>2025-12-16 01:32:41</sys_created_on>
+        <sys_id>718a3d1e83b93650a90de590ceaad376</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>healthscore_category</sys_name>
+        <sys_package display_value="Health Mobile" source="x_916323_health_0">67cba1d283393650a90de590ceaad3bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Health Mobile">67cba1d283393650a90de590ceaad3bd</sys_scope>
+        <sys_update_name>sys_sg_chart_718a3d1e83b93650a90de590ceaad376</sys_update_name>
+        <sys_updated_by>jenzi</sys_updated_by>
+        <sys_updated_on>2025-12-16 01:32:41</sys_updated_on>
+        <title>Health score by Category</title>
+        <type>data_visualization</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

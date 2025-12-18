@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="DELETE">
+        <creation_method/>
+        <name>text_01_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>jenzi</sys_created_by>
+        <sys_created_on>2025-12-16 02:53:31</sys_created_on>
+        <sys_id>020dc2d283bd3650a90de590ceaad3da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_01_element</sys_name>
+        <sys_package display_value="Health Mobile" source="x_916323_health_0">67cba1d283393650a90de590ceaad3bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Health Mobile">67cba1d283393650a90de590ceaad3bd</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_020dc2d283bd3650a90de590ceaad3da</sys_update_name>
+        <sys_updated_by>jenzi</sys_updated_by>
+        <sys_updated_on>2025-12-16 02:53:31</sys_updated_on>
+        <view_config display_value="Health Issues card">66db021283bd3650a90de590ceaad36b</view_config>
+        <view_template_slot display_value="text_01">177205bc41e35010f877183fc9b8bedd</view_template_slot>
+    </sys_sg_view_config_element>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Health Mobile">67cba1d283393650a90de590ceaad3bd</application>
+        <file_path/>
+        <instance_id>686ed25b1b66821877c7cb7b234bcb05</instance_id>
+        <instance_name>dev274338</instance_name>
+        <name>sys_sg_view_config_element_020dc2d283bd3650a90de590ceaad3da</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element"><sys_sg_view_config_element action="INSERT_OR_UPDATE"><creation_method/><name>text_01_element</name><sys_class_name>sys_sg_view_config_element</sys_class_name><sys_created_by>jenzi</sys_created_by><sys_created_on>2025-12-16 02:53:31</sys_created_on><sys_id>020dc2d283bd3650a90de590ceaad3da</sys_id><sys_mod_count>0</sys_mod_count><sys_name>text_01_element</sys_name><sys_package display_value="Health Mobile" source="x_916323_health_0">67cba1d283393650a90de590ceaad3bd</sys_package><sys_policy/><sys_scope display_value="Health Mobile">67cba1d283393650a90de590ceaad3bd</sys_scope><sys_update_name>sys_sg_view_config_element_020dc2d283bd3650a90de590ceaad3da</sys_update_name><sys_updated_by>jenzi</sys_updated_by><sys_updated_on>2025-12-16 02:53:31</sys_updated_on><view_config display_value="Health Issues card">66db021283bd3650a90de590ceaad36b</view_config><view_template_slot display_value="text_01">177205bc41e35010f877183fc9b8bedd</view_template_slot></sys_sg_view_config_element></record_update>]]></payload>
+        <payload_hash>122091919</payload_hash>
+        <record_name>text_01_element</record_name>
+        <reverted_from/>
+        <source>a7cba1d283393650a90de590ceaad3c0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jenzi</sys_created_by>
+        <sys_created_on>2025-12-16 02:53:31</sys_created_on>
+        <sys_id>060dc2d283bd3650a90de590ceaad3dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19b2513c63b0000001</sys_recorded_at>
+        <sys_updated_by>jenzi</sys_updated_by>
+        <sys_updated_on>2025-12-16 02:53:31</sys_updated_on>
+        <type>Card element</type>
+        <update_guid>c20dc2d285bd3650e8a49077546bf8dc</update_guid>
+        <update_guid_history>c20dc2d285bd3650e8a49077546bf8dc:122091919</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jenzi</sys_created_by>
+        <sys_created_on>2025-12-16 03:08:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_view_config_element">sys_sg_view_config_element</sys_db_object>
+        <sys_id>c8b57f397305412cad64d99b8ed2de04</sys_id>
+        <sys_metadata>020dc2d283bd3650a90de590ceaad3da</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_01_element</sys_name>
+        <sys_package display_value="Health Mobile" source="x_916323_health_0">67cba1d283393650a90de590ceaad3bd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Health Mobile">67cba1d283393650a90de590ceaad3bd</sys_scope>
+        <sys_scope_delete display_value="">247545eaa9f54cda86f6f667ce6c4539</sys_scope_delete>
+        <sys_update_name>sys_sg_view_config_element_020dc2d283bd3650a90de590ceaad3da</sys_update_name>
+        <sys_update_version display_value="sys_sg_view_config_element_020dc2d283bd3650a90de590ceaad3da">060dc2d283bd3650a90de590ceaad3dd</sys_update_version>
+        <sys_updated_by>jenzi</sys_updated_by>
+        <sys_updated_on>2025-12-16 03:08:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
