@@ -59,6 +59,7 @@ https://github.com/j0hn2608/servicenow-platform-health-core
 
 The mobile app:
 - consumes the Remote Table exposed by the Platform Health Core application
+- provide new data visualizations
 - Focused on mobile UX
 
 
