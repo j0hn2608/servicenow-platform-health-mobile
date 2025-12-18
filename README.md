@@ -4,7 +4,7 @@ A **mobile admin application** providing a quick visual view of ServiceNow platf
 
 This project delivers a **ready-to-use mobile experience** for administrators, built on top of the **Platform Health Core** engine.
 <p align="center">
- <img src="docs/images/health-mobile-interface.png" width="300" />
+ <img src="docs/images/health-mobile-interface.png" width="200" />
 </p>
 
 ---
